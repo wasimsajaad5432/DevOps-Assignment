@@ -1,2 +1,0 @@
-# DevOps-Assignment
-DevOps-Assignment
